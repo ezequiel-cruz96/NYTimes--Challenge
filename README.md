@@ -11,7 +11,3 @@ npm install
 npm run serve
 ```
 
-#### Lints and fixes files
-```bash
-npm run lint
-```
