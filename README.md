@@ -3,15 +3,15 @@
 ### Project setup
 #### Install dependencies
 ```bash
-yarn install
+npm install
 ```
 
 #### Compiles and hot-reloads for development
 ```bash
-yarn run serve
+npm run serve
 ```
 
 #### Lints and fixes files
 ```bash
-yarn run lint
+npm run lint
 ```
